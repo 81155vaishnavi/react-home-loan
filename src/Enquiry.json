@@ -1,0 +1,24 @@
+{
+    "Enquiry":[
+        {
+            "applicant_Id":"101",
+            "first_Name":"vaishnavi",
+            "last_Name":"wakde",
+            "age":"23",
+            "email":"wakdevaishnavi@gmail.com",
+            "mobileNo":"12345678966",
+            "alternateMobileNo":"9503950035",
+            "pancardNo":"ABCD4567E",
+            "adharNo":"123456788765",
+            "address":"karvenagar",
+            "city":"pune",
+            "cibilId":"101",
+            "cibilScore":"300",
+            "cibilScoreDateandTime":"9.30pm",
+            "status":"good",
+            "remark":"very Good",
+            "image":".public/Houseloan.jpg"
+        }  
+        
+    ]
+}
